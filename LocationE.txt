@@ -1,0 +1,21 @@
+20123,Painting 20th Century,50000
+20147,Ceramic 20th Century,10000
+20248,Sculpture 19th Century,179000
+20357,Renaissance Painting,89675000
+20359,Painting 12th Century,32000000
+20378,Painting 20th Century,12000000
+20397,Painting 19th Century,17950000
+20487,Sculpture 18th Century,1399000
+20501,Ceramic 17th Century,5000000
+20503,Ancient Mayan Statue,259000000
+20505,Ancient Roman Coin Gold 2nd Century AD,5900000
+20617,Ancient Greek Coin Gold 5th Century BC,8759000
+20711,Ancient Glass Vial 3rd Century BC,17896000
+20734,Porcelain Vase 16th Century,7587000
+20749,Limited edition Print 16th Century,980000
+20798,Glass Vase Hand Pained 7th Century,25999000
+20799,Porcelain Vase 15th Century,8975000
+20814,Porcelain Vase 14th Century,11234000
+20876,Sculpture 4th Century,78000000
+20899,Ancient Greek Statue 5th Century BC,497000000
+20925,Ancient Roman mosaic,195000000
